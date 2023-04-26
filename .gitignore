@@ -1,0 +1,9 @@
+BUILD
+.mbed
+compile_commands.json
+.cache
+.clangd
+drivers/COMPONENT_wifi_ism43362
+mbed-client-for-azure
+mbed-os
+ntp-client
